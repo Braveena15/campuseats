@@ -1,4 +1,4 @@
-# CampusEats · SE3090 Lab 11
+# CampusEats
 
 A working campus menu dashboard built with React/Vite, ASP.NET Core 8, EF Core and PostgreSQL. The deployment architecture is **Netlify → Render Docker API → Neon PostgreSQL**, with GitHub Actions for CI. No repository was created, code pushed, or cloud resources deployed by the assistant.
 
